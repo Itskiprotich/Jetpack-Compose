@@ -19,7 +19,7 @@
         <item name="windowNoTitle">true</item>
     </style>
 
-    <style name="Theme.Compose.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+    <style name="Theme.CodingArkComposeSignIn.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
 
-    <style name="Theme.Compose.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+    <style name="Theme.CodingArkComposeSignIn.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
 </resources>
